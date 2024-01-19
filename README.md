@@ -15,8 +15,11 @@
 
 > ## Objectives 
 
-1. Enhance detection of DDoS attacks in SDN-based VANETs.
-2. Detection of Distributed Denial of Service Attacks
+1. Deploy the TabNet deep learning classifier to detect DDoS attacks in SDN-based VANET.
+
+3. Enhancing the TabNet architecture's efficiency through applying the Adam optimization technique and an exhaustive Grid Search Cross-Validation (GSCV) optimization during training. This approach aims to identify optimal hyperparameters, ensuring the TabNet classifier achieves the highest accuracy in DDoS attack classification.
+
+4. Providing a promising solution for enhancing VANET communication security by offering accurate and interpretable predictions of DDoS attacks. This objective addresses the need for robust security measures in vehicular communication systems, contributing to the overall resilience and reliability of SDN-based VANETs.
 
 > ## Dataset
 
